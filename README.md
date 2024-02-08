@@ -21,7 +21,7 @@
 ## My Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,bootstrap,flutter,docker,fastapi,laravel,mongodb,php,py,react,ts,vue,wordpress&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,flutter,docker,laravel,mongodb,php,py,react,ts,vue,wordpress&perline=10)](https://skillicons.dev)
 
 <br/>  
 
